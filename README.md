@@ -11,13 +11,13 @@ Ceci est un petit projet qui consiste à créer un code QR avec python
 Pour ce projet nous devons installer le module qrcode avec la comande : ***pip install qrcode pillow***
 
 ## ✍️Explication du code : 
-- *Code = qrcode.QRCode(version =1, box_size = 5, border = 3)* : Création de l'objet code sur lequel on va appeler les différentes méthodes
-- *Code.add_data(message)*: Ajout des informations du code QR
-- *Code.make(fit = True)* : Déclenchement la génération du QR code.
+- **Code = qrcode.QRCode(version =1, box_size = 5, border = 3)** : Création de l'objet code sur lequel on va appeler les différentes méthodes
+- **Code.add_data(message)**: Ajout des informations du code QR
+- **Code.make(fit = True)** : Déclenchement la génération du QR code.
 
 ![L'image](CodeQr.png)
 
-[Poste Linkdin]()
+[Poste Linkdin](https://www.linkedin.com/posts/kouevi-joseph-adamah-2515b1354_github-joseph-adamahcodeqr-python-activity-7389944447599521792-oSfD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFhdfx0BTalr3d6i6CC1bncaUwI_8ww3JG8)
 
 
 
